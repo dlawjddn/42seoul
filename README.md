@@ -1,5 +1,4 @@
 # 42seoul
-42seoul
 Piscine
 Project|Score|
 |:----:|:---:|
