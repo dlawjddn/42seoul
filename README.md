@@ -19,7 +19,7 @@ Project|Score|
 |BSQ|100|
 
 
-Born2code
+42cursus
 Project|Score|
 |:----:|:---:|
 |Libft|125|
