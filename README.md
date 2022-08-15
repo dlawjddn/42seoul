@@ -23,3 +23,4 @@ Project|Score|
 Project|Score|
 |:----:|:---:|
 |Libft|125|
+|GNL|112|
