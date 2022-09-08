@@ -23,5 +23,5 @@ Project|Score|
 Project|Score|
 |:----:|:---:|
 |Libft|125|
-|GNL|112|
+|GNL|125|
 |Ft_printf|125|
